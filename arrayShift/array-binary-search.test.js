@@ -1,7 +1,7 @@
 
 
 
-const { BinarySearch } = require('./array-binary-search.js'); 
+const { BinarySearch } = require('../array-binary-search.js'); 
 
 describe('is key exists', () => {
   it('returns index number of key', () => {
